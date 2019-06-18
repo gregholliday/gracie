@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LithiumMessageTracer</key>
+	<dict>
+		<key>LastReportedDate</key>
+		<date>2018-01-09T15:26:25Z</date>
+	</dict>
+	<key>Photos</key>
+	<dict>
+		<key>CollapsedSidebarSectionIdentifiers</key>
+		<array/>
+		<key>ExpandedSidebarItemIdentifiers</key>
+		<array>
+			<string>TopLevelAlbums</string>
+			<string>TopLevelSlideshows</string>
+		</array>
+		<key>IPXWorkspaceControllerPhotosHasContentKey</key>
+		<true/>
+		<key>IPXWorkspaceControllerZoomLevelsKey</key>
+		<dict>
+			<key>kZoomLevelIdentifierVersions</key>
+			<integer>7</integer>
+		</dict>
+		<key>lastKnownItemCounts</key>
+		<dict>
+			<key>other</key>
+			<integer>0</integer>
+			<key>photos</key>
+			<integer>1</integer>
+			<key>videos</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
